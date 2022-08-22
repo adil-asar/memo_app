@@ -1,0 +1,29 @@
+
+.header_css{
+    font-family: 'Josefin Sans', sans-serif;
+    width: 100%;
+    height: 60px;
+    background-color: #b9f2ff;
+    display: flex;
+    padding: 1rem 3.5rem ;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dark_css{
+  background-color: rgba(0, 0, 0, 0.767);
+}
+.logo_css{
+ width: 65px;
+}
+
+.icon_css{
+  font-size: 1.3rem;
+  padding: .2rem;
+  text-align: center;
+  border-radius: 50%;
+  height: 2.6rem;
+  width: 2.6rem;
+  background-color: #ffff;
+  color: black;
+}

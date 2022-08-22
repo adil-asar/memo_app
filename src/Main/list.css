@@ -1,0 +1,31 @@
+
+
+.list_css{
+    width: 60%;
+    padding: 0 1rem;
+    overflow-y: auto;
+    height: 27.5rem;
+  
+}
+::-webkit-scrollbar {
+    width: 8px;
+
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #ffff; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+      background: #b9f2ff; 
+    
+    border-radius: 10px;
+
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b9f2ff; 
+  }

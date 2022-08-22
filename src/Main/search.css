@@ -1,0 +1,22 @@
+
+.search{
+    margin: 1.5rem .2rem;
+}
+.input_cus_css{
+    background-color: #b9f2ff;
+    box-shadow: none !important;
+    border: 1px solid #b9f2ff;
+    height: 2.5rem;
+    /* outline: none !important; */
+
+}
+
+.label_css{
+    background-color: #b9f2ff;  
+    border: 1px solid #b9f2ff;
+    color: black;
+}
+.input_cus_css:focus{
+    background-color: #b9f2ff; 
+    border: 1px solid #b9f2ff;
+}
